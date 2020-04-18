@@ -23,6 +23,7 @@ The comparison of strings is case-insensitive. If the value of topToys is more t
 Example:
 
 Input:
+```
 numToys = 6
 topToys = 2
 toys = ["elmo", "elsa", "legos", "drone", "tablet", "warcraft"]
@@ -34,11 +35,12 @@ quotes = [
 "Elsa and Elmo are the toys I'll be buying for my kids, Elsa is good",
 "For parents of older kids, look into buying them a drone",
 "Warcraft is slowly rising in popularity ahead of the holiday season"
-];
-
+];'
+```
 Output:
+```
 ["elmo", "elsa"]
-
+```
 Explanation:
 elmo - 4
 elsa - 4
