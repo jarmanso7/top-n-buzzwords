@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopNBuzzwords", "TopNBuzzwords.csproj", "{63BC602E-155F-416F-8FB4-4B9135F7EC4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF52735D-73FD-40EE-A0B8-5AA831FCD690}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BC602E-155F-416F-8FB4-4B9135F7EC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BC602E-155F-416F-8FB4-4B9135F7EC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BC602E-155F-416F-8FB4-4B9135F7EC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BC602E-155F-416F-8FB4-4B9135F7EC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B919B29-2106-4293-A540-E5A741B7602B}
+	EndGlobalSection
+EndGlobal
