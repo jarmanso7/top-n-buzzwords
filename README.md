@@ -44,7 +44,6 @@ Output:
 ```
 ["elmo", "elsa"]
 ```
-Explanation:
 elmo - 4
 elsa - 4
 "elmo" should be placed before "elsa" in the result because "elmo" appears in 3 different quotes and "elsa" appears in 2 different quotes.
